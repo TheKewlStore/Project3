@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/iwasf/CLionProjects/CEG4500/Project3/main.cpp
+windows.h
+-
+GL/GL.h
+-
+GL/GLU.h
+-
+GL/glut.h
+-
+OpenGL/gl.h
+-
+glut.h
+-
+GL/GL.h
+-
+GL/GLU.h
+-
+GL/glut.h
+-
+iostream
+-
+
