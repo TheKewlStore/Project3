@@ -6,7 +6,21 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/iwasf/CLionProjects/CEG4500/Project3/main.cpp
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+windows.h
+-
+OpenGL/OpenGLAvailability.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+
+/Users/ian/Documents/School/CEG4500/Projects/Project3/main.cpp
 windows.h
 -
 GL/GL.h
@@ -25,6 +39,12 @@ GL/GLU.h
 -
 GL/glut.h
 -
+cmath
+-
+cstdlib
+-
 iostream
+-
+fstream
 -
 
